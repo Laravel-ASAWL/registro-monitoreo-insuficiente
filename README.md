@@ -34,6 +34,6 @@ Laravel proporciona herramientas y características para facilitar el registro y
 
 La mitigación de registro y monitoreo insuficiente se la realiza mediante:
 
--	Implementación de Firewall de Aplicación Web mediante ShieldOn, y.
--	Implementación de monitoreo de registros mediante Laravel Telescope.
+-	Implementación de Firewall de Aplicación Web mediante ShieldOn.
+-	Implementación de monitoreo de registros mediante Laravel Telescope, y.
 -	Implementación de monitoreo de desempeño mediante Laravel Pulse.
